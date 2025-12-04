@@ -3296,6 +3296,7 @@ Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-4.ctv, From: 
 Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-24.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-35.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-17.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-6.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-5.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东体育, URL: http://cdn2.132.us.kg/live/gdty/stream.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -3312,7 +3313,6 @@ Name: 广东体育, URL: https://migu.188766.xyz/?migutoken=7e437bfc22963b0ecab7
 Name: 广东体育, URL: https://hk.188766.xyz/?migutoken=d68076704bfb72aeadaf6496dbf0ac12&id=gd_gdty&type=sz, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东体育, URL: https://migu.188766.xyz/?migutoken=281042a89fe916c5a5ab375546d25139&id=hk_gdty&type=dy, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东体育, URL: https://hk.188766.xyz/?migutoken=fcd68d000fa6f24b0143d21952493e7e&id=gd_gdty&type=sz, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-17.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东新闻, URL: https://stream1.freetv.fun/yan-dong-xin-wen-25.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东新闻, URL: https://stream1.freetv.fun/yan-dong-xin-wen-14.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东新闻, URL: https://stream1.freetv.fun/yan-dong-xin-wen-12.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -3534,6 +3534,7 @@ Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-31.ctv, Fr
 Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-12.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-4.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-26.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-15.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-14.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广州竞赛, URL: https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1746307365&key=a9871a8d340d71198cae366f791f73b6, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广州竞赛, URL: https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1746292937&key=9c4406a7e61302b6549a1ec192360a80, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -3545,7 +3546,6 @@ Name: 广州竞赛, URL: https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=17457
 Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-6.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-22.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-30.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-15.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 江门综合, URL: https://stream1.freetv.fun/jiang-men-zong-he-8.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 江门综合, URL: https://stream1.freetv.fun/jiang-men-zong-he-6.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 江门综合, URL: http://dslive.grtn.cn/jmzh/sd/live.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -6075,6 +6075,7 @@ Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-4.ctv, From: 
 Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-24.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-35.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-17.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-6.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-5.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东体育, URL: http://cdn2.132.us.kg/live/gdty/stream.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -6091,7 +6092,6 @@ Name: 广东体育, URL: https://migu.188766.xyz/?migutoken=7e437bfc22963b0ecab7
 Name: 广东体育, URL: https://hk.188766.xyz/?migutoken=d68076704bfb72aeadaf6496dbf0ac12&id=gd_gdty&type=sz, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东体育, URL: https://migu.188766.xyz/?migutoken=281042a89fe916c5a5ab375546d25139&id=hk_gdty&type=dy, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东体育, URL: https://hk.188766.xyz/?migutoken=fcd68d000fa6f24b0143d21952493e7e&id=gd_gdty&type=sz, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 广东体育, URL: https://stream1.freetv.fun/yan-dong-ti-yu-17.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 纬来体育, URL: https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 纬来体育, URL: https://smart.pendy.dpdns.org/Smart.php?id=videolandsport, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 纬来体育, URL: https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -6167,6 +6167,7 @@ Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-31.ctv, Fr
 Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-12.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-4.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-26.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-15.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-14.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广州竞赛, URL: https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1746307365&key=a9871a8d340d71198cae366f791f73b6, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广州竞赛, URL: https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1746292937&key=9c4406a7e61302b6549a1ec192360a80, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -6178,7 +6179,6 @@ Name: 广州竞赛, URL: https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=17457
 Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-6.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-22.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-30.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 广州竞赛, URL: https://stream1.freetv.fun/yan-zhou-jing-sai-15.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 辽宁体育, URL: https://stream1.freetv.fun/liao-zhu-ti-yu-5.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 辽宁体育, URL: https://stream1.freetv.fun/liao-zhu-ti-yu-3.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 山东体育, URL: https://stream1.freetv.fun/shan-dong-ti-yu-8.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
