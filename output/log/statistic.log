@@ -1,5 +1,5 @@
 Category: 📺央视频道, Name: CCTV-1, Total: 156, Valid: 156, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 156, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-2, Total: 201, Valid: 201, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 201, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-2, Total: 202, Valid: 202, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 202, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-3, Total: 161, Valid: 161, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 161, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-4, Total: 333, Valid: 333, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 333, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-5, Total: 258, Valid: 258, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 258, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -11,7 +11,7 @@ Category: 📺央视频道, Name: CCTV-9, Total: 169, Valid: 169, Valid Percent:
 Category: 📺央视频道, Name: CCTV-10, Total: 169, Valid: 169, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 169, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-11, Total: 193, Valid: 193, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 193, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-12, Total: 185, Valid: 185, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 185, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CCTV-13, Total: 179, Valid: 179, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 179, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CCTV-13, Total: 180, Valid: 180, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 180, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-14, Total: 152, Valid: 152, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 152, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-15, Total: 169, Valid: 169, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 169, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-16, Total: 46, Valid: 46, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 46, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -506,7 +506,7 @@ Category: ☘️黑龙江频道, Name: 鹤岗新闻综合, Total: 4, Valid: 4, V
 Category: ☘️黑龙江频道, Name: 佳木斯新闻综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: ☘️黑龙江频道, Name: 齐齐哈尔新闻综合, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🌊港·澳·台, Name: 翡翠台, Total: 308, Valid: 308, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 308, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 🌊港·澳·台, Name: 明珠台, Total: 153, Valid: 153, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 153, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 🌊港·澳·台, Name: 明珠台, Total: 154, Valid: 154, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 154, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🌊港·澳·台, Name: 凤凰中文, Total: 215, Valid: 215, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 215, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🌊港·澳·台, Name: 凤凰资讯, Total: 228, Valid: 228, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 228, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🌊港·澳·台, Name: 凤凰香港, Total: 197, Valid: 197, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 197, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
