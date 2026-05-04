@@ -3535,6 +3535,7 @@ Name: 怀旧剧场, URL: https://hls-gateway.vpstv.net/streams/708853.m3u8, From
 Name: 怀旧剧场, URL: https://mursor.ottiptv.cc/mcp/hjjc.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: Oracle Corporation, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 怀旧剧场, URL: http://iptv.666230.xyz/iptv/jsyd.php/G_HUAIJIUJC-CQ, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 怀旧剧场, URL: http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国联通, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 怀旧剧场, URL: https://gd202.tv1288.xyz/tsfile/live/1048_1.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 女性时尚, URL: https://cc06.tv12.xyz/95.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 女性时尚, URL: http://iptv.666230.xyz/iptv/jsyd.php/G_NVXINGSS-CQ, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 女性时尚, URL: http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国联通, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -13577,6 +13578,7 @@ Name: CHC家庭影院, URL: https://t.freetv.fun/live/chcjia-ting-ying-yuan-4.m3
 Name: CHC家庭影院, URL: https://t.freetv.fun/live/chcjia-ting-ying-yuan-5.php, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CHC家庭影院, URL: https://t.freetv.fun/live/chcjia-ting-ying-yuan-6.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CHC家庭影院, URL: https://t.freetv.fun/live/chcjia-ting-ying-yuan-7.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: CHC家庭影院, URL: https://t.freetv.fun/live/chcjia-ting-ying-yuan-5.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CHC动作电影, URL: http://z.b.bkpcp.top/m.php, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CHC动作电影, URL: http://goo.bkpcp.top/mg/dzdy, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CHC动作电影, URL: http://z.b.bkpcp.top/m.php?id=dzdy, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
