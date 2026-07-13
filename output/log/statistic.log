@@ -16,10 +16,10 @@ Category: 📺央视频道, Name: CCTV-14, Total: 158, Valid: 158, Valid Percent
 Category: 📺央视频道, Name: CCTV-15, Total: 175, Valid: 175, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 175, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-16, Total: 46, Valid: 46, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 46, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CCTV-17, Total: 171, Valid: 171, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 171, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CETV-1, Total: 230, Valid: 230, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 230, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CETV-2, Total: 208, Valid: 208, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 208, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CETV-1, Total: 233, Valid: 233, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 233, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CETV-2, Total: 210, Valid: 210, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 210, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📺央视频道, Name: CETV-3, Total: 6, Valid: 6, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 6, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📺央视频道, Name: CETV-4, Total: 209, Valid: 209, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 209, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 📺央视频道, Name: CETV-4, Total: 212, Valid: 212, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 212, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 💰央视付费频道, Name: 文化精品, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 💰央视付费频道, Name: 央视台球, Total: 5, Valid: 5, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 5, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 💰央视付费频道, Name: 风云音乐, Total: 4, Valid: 4, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 4, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -213,8 +213,8 @@ Category: ☘️江苏频道, Name: 江宁新闻, Total: 1, Valid: 1, Valid Perc
 Category: ☘️江苏频道, Name: 江苏体育, Total: 51, Valid: 51, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 51, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: ☘️江苏频道, Name: 江苏公共, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: ☘️江苏频道, Name: 江苏城市, Total: 86, Valid: 86, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 86, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: ☘️江苏频道, Name: 江苏影视, Total: 129, Valid: 129, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 129, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: ☘️江苏频道, Name: 江苏教育, Total: 123, Valid: 123, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 123, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: ☘️江苏频道, Name: 江苏影视, Total: 131, Valid: 131, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 131, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: ☘️江苏频道, Name: 江苏教育, Total: 124, Valid: 124, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 124, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: ☘️江苏频道, Name: 沭阳综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: ☘️江苏频道, Name: 泗洪新闻综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: ☘️江苏频道, Name: 泰州一套新闻综合, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -233,7 +233,7 @@ Category: ☘️江苏频道, Name: 苏州新闻综合, Total: 3, Valid: 3, Vali
 Category: ☘️江苏频道, Name: 苏州生活资讯, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: ☘️江苏频道, Name: 苏州社会经济, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: ☘️江苏频道, Name: 连云港公共, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: ☘️江苏频道, Name: 连云港新闻综合, Total: 129, Valid: 129, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 129, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: ☘️江苏频道, Name: 连云港新闻综合, Total: 130, Valid: 130, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 130, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: ☘️江苏频道, Name: 镇江新闻综合, Total: 67, Valid: 67, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 67, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: ☘️江苏频道, Name: 靖江新闻综合, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: ☘️辽宁频道, Name: 辽宁北方, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
