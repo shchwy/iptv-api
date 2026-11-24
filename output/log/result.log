@@ -10503,7 +10503,7 @@ Name: 浙江国际, URL: https://t.freetv.fun/live/zhe-jiang-guo-ji-2.m3u8, From
 Name: 浙江国际, URL: https://t.freetv.fun/live/zhe-jiang-guo-ji-3.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 浙江国际, URL: https://t.freetv.fun/live/zhe-jiang-guo-ji-4.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 嘉兴新闻综合, URL: http://live.zohi.tv/video/s10001-fztv-1/index.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 嘉兴新闻综合, URL: https://ali-xwl.cztv.com/live/jiaxingds.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: , Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 嘉兴新闻综合, URL: https://ali-xwl.cztv.com/live/jiaxingds.m3u8, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: , Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 湖州公共, URL: https://stream1.freetv.fun/hu-zhou-gong-gong-3.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 湖州公共, URL: https://stream1.freetv.fun/hu-zhou-gong-gong-1.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 湖州公共, URL: https://stream1.freetv.fun/hu-zhou-gong-gong-9.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -10511,11 +10511,11 @@ Name: 湖州公共, URL: https://t.freetv.fun/live/hu-zhou-gong-gong-1.m3u8, Fro
 Name: 湖州公共, URL: https://t.freetv.fun/live/hu-zhou-gong-gong-2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 湖州公共, URL: https://t.freetv.fun/live/hu-zhou-gong-gong-3.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 湖州公共, URL: https://t.freetv.fun/live/hu-zhou-gong-gong.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 湖州公共, URL: https://ali-xwl.cztv.com/live/huzhouds.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: , Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 衢州新闻综合, URL: https://ali-xwl.cztv.com/live/quzhouds.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: , Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 金华新闻综合, URL: https://ali-xwl.cztv.com/live/jinhuads.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: , Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 舟山新闻综合, URL: https://ali-xwl.cztv.com/live/zhoushands.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: , Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 温州新闻综合, URL: https://ali-xwl.cztv.com/live/wenzhouds.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: , Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 湖州公共, URL: https://ali-xwl.cztv.com/live/huzhouds.m3u8, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: , Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 衢州新闻综合, URL: https://ali-xwl.cztv.com/live/quzhouds.m3u8, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: , Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 金华新闻综合, URL: https://ali-xwl.cztv.com/live/jinhuads.m3u8, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: , Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 舟山新闻综合, URL: https://ali-xwl.cztv.com/live/zhoushands.m3u8, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: , Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 温州新闻综合, URL: https://ali-xwl.cztv.com/live/wenzhouds.m3u8, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: , Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 浙江经视, URL: http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国-广西-防城港, ISP: 电信, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 浙江经视, URL: https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国-广西-防城港, ISP: 电信, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 浙江留学, URL: http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -10603,7 +10603,7 @@ Name: 绍兴新闻综合, URL: https://stream1.freetv.fun/shao-xing-xin-wen-zong
 Name: 绍兴新闻综合, URL: https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 绍兴新闻综合, URL: https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-3-1.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 绍兴新闻综合, URL: https://t.freetv.fun/live/shao-xing-xin-wen-zong-he-3.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 绍兴新闻综合, URL: https://ali-xwl.cztv.com/live/shaoxingds.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: , Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 绍兴新闻综合, URL: https://ali-xwl.cztv.com/live/shaoxingds.m3u8, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: , Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 绍兴文化影院, URL: https://stream1.freetv.fun/shao-xing-wen-hua-ying-yuan-2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 绍兴文化影院, URL: https://stream1.freetv.fun/shao-xing-wen-hua-ying-yuan-4.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 绍兴文化影院, URL: https://stream1.freetv.fun/shao-xing-wen-hua-ying-yuan-1.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
